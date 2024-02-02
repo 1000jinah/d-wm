@@ -1,0 +1,80 @@
+@font-face {
+    font-family: 'Apple SD Gothic Neo';
+    font-style: normal;
+    font-weight: 100;
+    src: local('Apple SD Gothic Neo Thin'),
+        url('../webfonts/100_AppleSDGothicNeo-Thin.woff2') format('woff2'),
+        url('../webfonts/100_AppleSDGothicNeo-Thin.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'Apple SD Gothic Neo';
+    font-style: normal;
+    font-weight: 200;
+    src: local('Apple SD Gothic Neo UltraLight'),
+        url('../webfonts/200_AppleSDGothicNeo-UltraLight.woff2') format('woff2'),
+        url('../webfonts/200_AppleSDGothicNeo-UltraLight.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'Apple SD Gothic Neo';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Apple SD Gothic Neo Light'),
+        url('../webfonts/300_AppleSDGothicNeo-Light.woff2') format('woff2'),
+        url('../webfonts/300_AppleSDGothicNeo-Light.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'Apple SD Gothic Neo';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Apple SD Gothic Neo Medium'),
+        url('../webfonts/400_AppleSDGothicNeo-Medium.woff2') format('woff2'),
+        url('../webfonts/400_AppleSDGothicNeo-Medium.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'Apple SD Gothic Neo';
+    font-style: normal;
+    font-weight: 500;
+    src: local('Apple SD Gothic Neo Regular'),
+        url('../webfonts/500_AppleSDGothicNeo-Regular.woff2') format('woff2'),
+        url('../webfonts/500_AppleSDGothicNeo-Regular.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'Apple SD Gothic Neo';
+    font-style: normal;
+    font-weight: 600;
+    src: local('Apple SD Gothic Neo SemiBold'),
+        url('../webfonts/600_AppleSDGothicNeo-SemiBold.woff2') format('woff2'),
+        url('../webfonts/600_AppleSDGothicNeo-SemiBold.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'Apple SD Gothic Neo';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Apple SD Gothic Neo Bold'),
+        url('../webfonts/700_AppleSDGothicNeo-Bold.woff2') format('woff2'),
+        url('../webfonts/700_AppleSDGothicNeo-Bold.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'Apple SD Gothic Neo';
+    font-style: normal;
+    font-weight: 800;
+    src: local('Apple SD Gothic Neo ExtraBold'),
+        url('../webfonts/800_AppleSDGothicNeo-ExtraBold.woff2') format('woff2'),
+        url('../webfonts/800_AppleSDGothicNeo-ExtraBold.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'Apple SD Gothic Neo';
+    font-style: normal;
+    font-weight: 900;
+    src: local('Apple SD Gothic Neo Heavy'),
+        url('../webfonts/900_AppleSDGothicNeo-Heavy.woff2') format('woff2'),
+        url('../webfonts/900_AppleSDGothicNeo-Heavy.otf') format('opentype');
+}
